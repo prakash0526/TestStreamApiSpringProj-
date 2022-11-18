@@ -11,6 +11,7 @@ public class TestStreamApiSpringProjApplication {
         SpringApplication.run(TestStreamApiSpringProjApplication.class, args);
         System.out.println("Test Project");
         int a =2;
+        System.out.println("Test Projectjyuggg");
     }
 
 }
