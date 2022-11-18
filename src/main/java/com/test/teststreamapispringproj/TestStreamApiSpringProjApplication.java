@@ -10,8 +10,6 @@ public class TestStreamApiSpringProjApplication {
 
         SpringApplication.run(TestStreamApiSpringProjApplication.class, args);
         System.out.println("Test Project");
-        System.out.println("Test Prhojectyfjvhvhvhvgf");
-        System.out.println("Test Prhojectyfjvhvhvhvgf");
     }
 
 }
